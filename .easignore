@@ -1,0 +1,7 @@
+AppData
+Temp
+*.tmp
+node_modules
+.git
+.vscode
+.history
